@@ -1,11 +1,11 @@
 # File hosting v2
 
-Improved <a href="https://github.com/sarusman/files-hosting">file host</a>. Change of interface and storage: 15 GB available.
+Improved <a target="_blank" href="https://github.com/sarusman/files-hosting">file host</a>. Change of interface and storage: 15 GB available.
 This app now uses the Google API to store, view, and delete files.
 The interface is totally redone and is more interactive.
 
 Hosting of all types of documents with the possibility of downloading with any other device. Written in Python and Javascript with the Flask library for the server.
-Link: <a href="https://serveur.pythonanywhere.com">Host server v2</a>
+Link: <a <a target="_blank" href="https://serveur.pythonanywhere.com">Host server v2</a>
 
 ## For private use.
 
