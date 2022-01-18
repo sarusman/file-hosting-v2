@@ -1,6 +1,6 @@
 # File hosting v2
 
-Change of interface and storage: 15 GB available.
+Improved <a href="https://github.com/sarusman/files-hosting">file host</a>. Change of interface and storage: 15 GB available.
 This app now uses the Google API to store, view, and delete files.
 The interface is totally redone and is more interactive.
 
