@@ -1,6 +1,6 @@
 # File hosting v2
 
-Improved file host. Change of interface and storage: 15 GB available.
+Change of interface and storage: 15 GB available.
 This app now uses the Google API to store, view, and delete files.
 The interface is totally redone and is more interactive.
 
