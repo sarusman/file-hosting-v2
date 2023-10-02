@@ -5,7 +5,7 @@ This app now uses the Google API to store, view, and delete files.
 The interface is totally redone and is more interactive.
 
 Hosting of all types of documents with the possibility of downloading with any other device. Written in Python and Javascript with the Flask library for the server.
-Link: <a target="_blank" href="https://serveur.pythonanywhere.com">Host server v2</a>
+Link: <a target="_blank" href="https://serveur.pythonanywhere.com">Host server v2</a> First version : <a target="_blank" href="https://github.com/sarusman/files-hosting-v1"></a>
 
 ## For private use.
 
